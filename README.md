@@ -1,8 +1,22 @@
-# React + Vite
+open command line interface once downloaded. (control+shift+`)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+run npm install
 
-Currently, two official plugins are available:
+run npm run dev to see the output on your localhost (click to folloa the underlined localhoat link you see)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+#Tools used to implement real time tracking of crypto coins
+
+Chart.js for charting
+
+websocket api for making connection to benance API
+
+Reactjs for front-end 
+
+Vite to build
+
+Hooks, Redux for state management 
+
+React-redux to connect App and Store
+
+Redux-Persist to persist data in local storage
